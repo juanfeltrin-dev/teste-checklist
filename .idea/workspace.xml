@@ -7,7 +7,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -137,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/data/in" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../checklist" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
@@ -168,6 +168,7 @@
       <updated>1614894051437</updated>
       <workItem from="1614894054179" duration="21061000" />
       <workItem from="1614978467126" duration="7469000" />
+      <workItem from="1615050180094" duration="55000" />
     </task>
     <servers />
   </component>
@@ -195,10 +196,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614913774769" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1614900788896">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1615050190618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614900788896" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615050190618" />
     <state x="511" y="179" key="NewPhpClassDialog" timestamp="1614984108136">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
