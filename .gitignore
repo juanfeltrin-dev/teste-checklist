@@ -15,7 +15,8 @@ public/hot
 public_html/storage
 public_html/hot
 
-public/data
+public/data/in
+public/data/out
 
 storage/*.key
 .env
