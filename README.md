@@ -1,3 +1,8 @@
+# URL's
+
+* /import - para importar arquivos .dat
+* / - para processar os dados e inserir na pasta public/data/out
+
 # Formato Salesman
 
 001,CPF,Name,Salary
